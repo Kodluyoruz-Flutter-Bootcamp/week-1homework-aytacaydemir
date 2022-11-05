@@ -1,10 +1,23 @@
-# flutter_application_3
+# Flutter Calculator Application
 
-A new Flutter project.
+Calculator App.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+- This project has been uploaded as the homework of the Flutter Bootcamp-Week one. 
+
+- You can run the project on [dartped.dev](https://dartpad.dev/?) by copy of the [main.dart](https://github.com/Kodluyoruz-Flutter-Bootcamp/week-1homework-aytacaydemir/blob/main/lib/main.dart) file. 
+
+- Functions and UI structure in the project are in progress.
+
+ 
+[Simple view of the project: ](https://github.com/Kodluyoruz-Flutter-Bootcamp/week-1homework-aytacaydemir/blob/main/calculator.png)
+
+
+
+
+
+
 
 A few resources to get you started if this is your first Flutter project:
 
