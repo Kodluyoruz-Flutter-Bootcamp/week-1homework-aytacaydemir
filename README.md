@@ -10,8 +10,14 @@ Calculator App.
 
 - Functions and UI structure in the project are in progress.
 
+
+
+- <b> Simple view of the project: </b>
+
+"![Simple view of the project:](/calculator.png)" 
+
  
-[Simple view of the project: ](https://github.com/Kodluyoruz-Flutter-Bootcamp/week-1homework-aytacaydemir/blob/main/calculator.png)
+
 
 
 
